@@ -98,15 +98,3 @@ print("{1}는 중복되지 않는 숫자 {0}개로 구성된다.".format("Lotto"
 menu1 = "치킨"
 menu2 = "맥주"
 print("오늘 {str}은 {0}과 {1}로 정했다.".format(menu1, menu2, str='저녁'))
-
-
-
-
-
-
-
-
-
-
-
-
